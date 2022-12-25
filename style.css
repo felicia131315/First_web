@@ -1,7 +1,7 @@
 
         @media(max-width:800px){
             #grd{
-                display:block;
+                display:none;
             }
             ul{
                 border-right:none;
