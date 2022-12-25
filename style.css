@@ -1,0 +1,29 @@
+
+        @media(max-width:800px){
+            #grd{
+                display:block;
+            }
+            ul{
+                border-right:none;
+            }
+        }
+        h1{
+       
+            text-align:center;
+            border-bottom:5px red solid;
+            padding: 20px;
+            margin:0px;
+        }
+        ul{
+            border-right:5px red solid;
+            width:150px;
+            margin:0px;
+            padding:20px;
+            text-align:center;
+        }
+        #grd{
+            display:grid;
+            grid-template-columns: 1fr 2fr;
+        }
+      
+       
